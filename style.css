@@ -52,6 +52,12 @@ font-family:monospace;
     font-size: 40px;
     font-family:monospace;
 }
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
 .banner-section{
     padding: 100px 0;
     background: url(ajy.jpg);
