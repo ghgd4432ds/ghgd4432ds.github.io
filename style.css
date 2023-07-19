@@ -32,7 +32,6 @@ font-family:monospace;
     padding: 15px;
     margin-left: 20px;
     
-    
 }
 
 .container{
@@ -52,15 +51,9 @@ font-family:monospace;
     font-size: 40px;
     font-family:monospace;
 }
-.container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-}
 .banner-section{
     padding: 100px 0;
-    background: #008a97;;
+    background: url(ajy.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -146,12 +139,8 @@ h2{
     flex-direction: row;
     justify-content: space-between;
 }
-.header-row{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
+
+
 .logo-title{
         font-size: 70px;
     }
-    wrap
