@@ -144,3 +144,7 @@ h2{
 .logo-title{
         font-size: 70px;
     }
+.footer-text{
+    display: flex;
+    flex-direction: column;
+}
