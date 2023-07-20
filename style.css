@@ -156,3 +156,10 @@ h2{
 .M{
     display: flex;
 }
+.card-text{
+    background-color: aqua;
+    transition: background 2s linear .2s;
+}
+.card-text:hover{
+    background: blue;
+}
