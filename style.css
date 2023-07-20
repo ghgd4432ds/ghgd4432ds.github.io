@@ -149,6 +149,7 @@ h2{
     flex-direction: column;
 }
 .footer{
+     display: flex;
     display: inline;
     text-indent: 40px;
 }
