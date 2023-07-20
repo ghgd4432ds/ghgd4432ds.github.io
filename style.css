@@ -153,3 +153,6 @@ h2{
     display: inline;
     text-indent: 40px;
 }
+.M{
+    display: flex;
+}
